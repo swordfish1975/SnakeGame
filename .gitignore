@@ -1,0 +1,9 @@
+```
+apple.png
+dot.png
+.DS_Store
+*.class
+target/
+*.iml
+.idea
+```
